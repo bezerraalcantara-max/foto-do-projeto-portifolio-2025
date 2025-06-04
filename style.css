@@ -1,0 +1,25 @@
+ element style{
+
+ }
+:root{
+ --cor-principal: #F48888;
+    --cor-destaque: #FC2B89;
+    --cor-background: #F8DBDB;
+}
+
+   *{
+ margin: 0;
+    padding: 0;
+}
+   html[Attributes style]{
+ -webkit-locale: "pt-BR";
+}
+  
+:root{
+view-transition-name: root;   
+}
+       
+html{
+ display: block;
+}
+            
